@@ -1,2 +1,3 @@
 1. List install:
-Add
+-Python
+-VS Code
